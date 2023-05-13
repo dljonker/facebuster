@@ -9,7 +9,11 @@ Ele só funciona para máquinas com banco local.
 Tarefas:
 
 Melhorar readme
+
 Unificar as duas funções de pesquisa no banco
+
 Fechar a conexão com o banco
+
 Remover as informações duplicadas do resultado
+
 Documentar instruções
